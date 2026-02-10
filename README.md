@@ -65,6 +65,18 @@ Este repositorio contiene una serie completa de prácticas diseñadas para lleva
 **Duración:** 4-6 horas  
 **Tema:** Proyecto completo aplicando todos los conocimientos adquiridos
 
+## 📖 Documentación Adicional
+
+Este repositorio incluye documentación completa para ayudarte en tu aprendizaje:
+
+- **[📘 Guía de Inicio Rápido](./GUIA_INICIO.md)** - Instalación, configuración y primer contacto con Fusion 360
+- **[🗺️ Roadmap de Aprendizaje](./ROADMAP.md)** - Rutas personalizadas según tu nivel y objetivos
+- **[📚 Recursos Adicionales](./RECURSOS.md)** - Enlaces, tutoriales, comunidades y herramientas complementarias
+- **[❓ Preguntas Frecuentes (FAQ)](./FAQ.md)** - Respuestas a dudas comunes
+- **[📖 Glosario de Términos](./GLOSARIO.md)** - Definiciones de términos técnicos de Fusion 360
+- **[🤝 Guía de Contribución](./CONTRIBUTING.md)** - Cómo contribuir al proyecto
+- **[📄 Licencia](./LICENSE.md)** - Información sobre la licencia CC BY-SA 4.0
+
 ## 🚀 Comenzando
 
 ### Requisitos Previos
@@ -101,11 +113,22 @@ Cada práctica incluye:
 
 ## 📖 Cómo Usar Este Repositorio
 
-1. **Orden recomendado:** Seguir las prácticas en orden secuencial (01 a 12)
+### Inicio Rápido
+
+1. **Lee la [Guía de Inicio](./GUIA_INICIO.md)** para instalar y configurar Fusion 360
+2. **Consulta el [Roadmap](./ROADMAP.md)** para elegir la ruta de aprendizaje que se adapte a tu nivel
+3. **Sigue las prácticas** en el orden recomendado para tu perfil
+4. **Completa los ejercicios** propuestos en cada práctica
+5. **Consulta los [Recursos Adicionales](./RECURSOS.md)** cuando necesites profundizar
+
+### Recomendaciones Generales
+
+1. **Orden recomendado:** Seguir las prácticas en orden secuencial (01 a 12) si eres principiante
 2. **Tiempo dedicado:** Completar cada práctica dedicando el tiempo estimado
 3. **Práctica activa:** Realizar los ejercicios propuestos, no solo leer
 4. **Experimentación:** Probar variaciones y explorar las herramientas
 5. **Proyecto final:** Aplicar todo lo aprendido en la Práctica 12
+6. **Consulta el [FAQ](./FAQ.md)** cuando tengas dudas
 
 ## 🎓 Nivel de las Prácticas
 
